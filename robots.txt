@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://arafat-aziz.github.io/al-folio/sitemap.xml
